@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "course_name": "Introduction to Programming",
+      "course_details": "Learn the basics of programming with this introductory course.",
+      "credit": 3,
+      "price": 199,
+      "image": "https://i.ibb.co/g690DLB/Rectangle-2-1.png"
+    },
+    {
+      "id": 2,
+      "course_name": "Web Development Fundamentals",
+      "course_details": "Start your journey into web development with this foundational course.",
+      "credit": 4,
+      "price": 249,
+      "image": "https://i.ibb.co/DMNGVnC/Rectangle-2-2.png"
+    },
+    {
+      "id": 3,
+      "course_name": "Data Science Essentials",
+      "course_details": "Explore the world of data science and analytics in this comprehensive course.",
+      "credit": 5,
+      "price": 299,
+      "image": "https://i.ibb.co/JKQ5Lwb/Rectangle-2-3.png"
+    },
+    {
+      "id": 4,
+      "course_name": "Graphic Design Mastery",
+      "course_details": "Master the art of graphic design and create stunning visuals.",
+      "credit": 3,
+      "price": 199,
+      "image": "https://i.ibb.co/pP71NpG/Rectangle-2-4.png"
+    },
+    {
+      "id": 5,
+      "course_name": "Advanced JavaScript Programming",
+      "course_details": "Take your JavaScript skills to the next level with advanced concepts.",
+      "credit": 4,
+      "price": 249,
+      "image": "https://i.ibb.co/yRFSXhW/Rectangle-2-5.png"
+    },
+    {
+      "id": 6,
+      "course_name": "Machine Learning Basics",
+      "course_details": "Get started with machine learning and artificial intelligence.",
+      "credit": 5,
+      "price": 299,
+      "image": "https://i.ibb.co/7kNkmmR/Rectangle-2-6.png"
+    },
+    {
+      "id": 7,
+      "course_name": "Financial Planning and Investment",
+      "course_details": "Learn how to manage your finances and make smart investment decisions.",
+      "credit": 3,
+      "price": 199,
+      "image": "https://i.ibb.co/17b8NqS/Rectangle-2.png"
+    },
+    {
+      "id": 8,
+      "course_name": "Digital Marketing Strategy",
+      "course_details": "Develop effective digital marketing strategies for your business.",
+      "credit": 4,
+      "price": 249,
+      "image": "https://i.ibb.co/gmG4fhp/Rectangle-3-1.png"
+    },
+    {
+      "id": 9,
+      "course_name": "Creative Writing Workshop",
+      "course_details": "Unleash your creativity with this creative writing workshop.",
+      "credit": 3,
+      "price": 199,
+      "image": "https://i.ibb.co/X4kPgmM/Rectangle-3.png"
+    }
+  ]
+  
